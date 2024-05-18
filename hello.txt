@@ -1,4 +1,4 @@
-[
-string: "hello",
-string2: "world"
-]
+{
+    "string": "hello",
+    "string2": "world"
+}
