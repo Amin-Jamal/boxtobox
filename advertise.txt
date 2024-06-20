@@ -1,1 +1,1 @@
-vless://c63305d2-4a21-4651-b23e-86e728aa86aa@31.14.123.135:20388?security=none&encryption=none&headerType=none&type=tcp#UsFraAfr%252BMoosi
+{"location":null,"smartActive":false,"userIp":"194.116.214.95","country":"Iran","isIranianUser":true,"isBlocked":false,"message":"","statusCode":200}
