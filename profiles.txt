@@ -1,1 +1,36 @@
-{"operator":"cloud2","countries":[{"name":"France","briefName":"FR","flagUrl":"https://flagicons.lipis.dev/flags/4x3/fr.svg","servers":[{"name":"mrs.ahrari","ping":"973 MS","id":11779545,"count":0,"ip":"farshetabriz||lvWTFbcg||06-16||10:45||3","address":"vless://c63305d2-4a21-4651-b23e-86e728aa86aa@31.14.123.135:20388?security=none&encryption=none&headerType=none&type=tcp#UsFraAfr%252BMoosi"}]}]}
+{
+    "operator": "cloud2",
+    "countries": [
+        {
+            "name": "France",
+            "briefName": "FR",
+            "flagUrl": "https://flagicons.lipis.dev/flags/4x3/fr.svg",
+            "servers": [
+                {
+                    "name": "mrs.sheydayi",
+                    "ping": "200 MS",
+                    "id": 11779545,
+                    "count": 0,
+                    "ip": "farshetabriz||lvWTFbcg||06-16||10:45||3",
+                    "address": "vless://c63305d2-4a21-4651-b23e-86e728aa86aa@31.14.123.135:20388?security=none&encryption=none&headerType=none&type=tcp#UsFraAfr%252BMoosi"
+                }, 
+				{
+                    "name": "mrs.negar",
+                    "ping": "400 MS",
+                    "id": 11779545,
+                    "count": 0,
+                    "ip": "farshetabriz||lvWTFbcg||06-16||10:45||3",
+                    "address": "vless://c63305d2-4a21-4651-b23e-86e728aa86aa@31.14.123.135:20388?security=none&encryption=none&headerType=none&type=tcp#UsFraAfr%252BMoosi"
+                },
+				{
+                    "name": "mrs.negin",
+                    "ping": "300 MS",
+                    "id": 11779545,
+                    "count": 0,
+                    "ip": "farshetabriz||lvWTFbcg||06-16||10:45||3",
+                    "address": "vless://c63305d2-4a21-4651-b23e-86e728aa86aa@31.14.123.135:20388?security=none&encryption=none&headerType=none&type=tcp#UsFraAfr%252BMoosi"
+                }
+            ]
+        }
+    ]
+}
